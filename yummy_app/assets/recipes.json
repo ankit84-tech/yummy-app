@@ -144,5 +144,749 @@
             "8. Enjoy the tangy and spicy Aloo Chaat!"
         ],
         "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/09/Aloo-chaat-ded000e.jpg?quality=90&resize=556,505"
+    },
+    {
+	"Name": "Aloo Palak",
+	"Description": "Aloo Palak is a delicious Indian dish made with spinach and potatoes.",
+	"Ingredients": [
+		"2 tablespoons oil",
+		"1 onion, finely chopped",
+		"2 cloves of garlic, minced",
+		"1 teaspoon grated ginger",
+		"2 green chilies, finely chopped",
+		"2 medium-sized potatoes, peeled and diced",
+		"4 cups spinach leaves, washed and finely chopped",
+		"1/2 teaspoon turmeric powder",
+		"1 teaspoon cumin powder",
+		"1 teaspoon coriander powder",
+		"1/2 teaspoon red chili powder (adjust according to taste)",
+		"Salt to taste",
+		"Fresh cilantro leaves for garnishing"
+	],
+	"Instructions": [
+		"1. Heat oil in a pan or skillet over medium heat.",
+		"2. Add the chopped onions and sauté until they turn golden brown.",
+		"3. Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.",
+		"4. Add diced potatoes to the pan and cook until they are slightly golden and cooked through.",
+		"5. Add turmeric powder, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
+		"6. Add the chopped spinach leaves to the pan and stir-fry until they wilt and cook down.",
+		"7. Cover the pan and let the mixture cook for about 8-10 minutes, or until the potatoes are fully cooked and the flavors have blended well.",
+		"8. Remove from heat and garnish with fresh cilantro leaves.",
+		"9. Serve hot with roti, naan, or rice."
+	],
+	"image": "https://www.cookwithmanali.com/wp-content/uploads/2023/03/Vegan-Indian-Aloo-Palak-Recipe.jpg"
+    },
+    {
+	"Name": "Cabbage Kofta",
+	"Description": "Cabbage kofta is a delicious Indian dish made with cabbage fritters in a flavorful tomato-based gravy.",
+	"Ingredients": [
+		"2 cups finely shredded cabbage",
+		"1/2 cup gram flour (besan)",
+		"1/4 cup finely chopped onions",
+		"2 green chilies, finely chopped",
+		"1 teaspoon ginger-garlic paste",
+		"1/2 teaspoon turmeric powder",
+		"1/2 teaspoon red chili powder",
+		"1/2 teaspoon cumin powder",
+		"Salt to taste",
+		"Oil for frying",
+		"For the gravy:",
+		"2 tablespoons oil",
+		"1 teaspoon cumin seeds",
+		"1 onion, finely chopped",
+		"2 tomatoes, finely chopped",
+		"1 teaspoon ginger-garlic paste",
+		"1/2 teaspoon turmeric powder",
+		"1 teaspoon red chili powder",
+		"1 teaspoon coriander powder",
+		"1/2 teaspoon garam masala",
+		"Salt to taste",
+		"Water as needed",
+		"Fresh cilantro leaves for garnishing"
+	],
+	"Instructions": [
+		"1. In a large bowl, combine the shredded cabbage, gram flour, onions, green chilies, ginger-garlic paste, turmeric powder, red chili powder, cumin powder, and salt. Mix well until the ingredients are combined and form a dough-like consistency.",
+		"2. Heat oil in a deep pan or kadai for frying. Take small portions of the cabbage mixture and shape them into round kofta balls. Carefully drop the kofta balls into the hot oil and fry until they turn golden brown. Remove the fried koftas and place them on a paper towel to absorb excess oil.",
+		"3. In a separate pan, heat 2 tablespoons of oil. Add cumin seeds and let them splutter. Add the finely chopped onions and sauté until they become translucent.",
+		"4. Add ginger-garlic paste and sauté for a minute until the raw smell disappears.",
+		"5. Add the finely chopped tomatoes and cook until they become soft and mushy.",
+		"6. Add turmeric powder, red chili powder, coriander powder, garam masala, and salt. Mix well and cook for a few minutes until the spices are well blended.",
+		"7. Add water to achieve the desired consistency for the gravy. Simmer the gravy for 5-10 minutes on medium heat.",
+		"8. Gently place the fried cabbage koftas into the gravy. Cover the pan and let it simmer for another 5 minutes, allowing the koftas to absorb the flavors of the gravy.",
+		"9. Garnish with fresh cilantro leaves and serve hot with rice or naan.",
+		"10. Enjoy your delicious Cabbage Kofta!"
+	],
+	"image": "https://www.ndtv.com/cooks/images/cabbage.kofta.jpg"
+    },
+    {
+	"Name": "Steamed Chinese Cabbage Parcels",
+	"Description": "Steamed Chinese cabbage parcels are a delicious and healthy dish made with cabbage leaves stuffed with a flavorful filling and steamed to perfection.",
+	"Ingredients": [
+		"8 large Chinese cabbage leaves",
+		"200g ground pork",
+		"1 cup cooked rice",
+		"1/2 cup chopped mushrooms",
+		"2 tablespoons soy sauce",
+		"1 tablespoon sesame oil",
+		"1 teaspoon minced ginger",
+		"2 cloves garlic, minced",
+		"Salt and pepper to taste"
+	],
+	"Instructions": [
+		"1. Blanch the Chinese cabbage leaves in boiling water for about 1 minute. Remove them and place them in ice-cold water to stop the cooking process. Drain and set aside.",
+		"2. In a bowl, mix together ground pork, cooked rice, chopped mushrooms, soy sauce, sesame oil, minced ginger, minced garlic, salt, and pepper. Mix well until all the ingredients are combined.",
+		"3. Take one cabbage leaf and place about 2 tablespoons of the filling in the center. Fold the sides of the leaf over the filling, then roll it up tightly to form a parcel. Repeat with the remaining cabbage leaves and filling.",
+		"4. Place the cabbage parcels in a steamer basket or on a steaming rack. Steam for about 15-20 minutes or until the filling is cooked through.",
+		"5. Carefully remove the steamed cabbage parcels from the steamer and serve hot.",
+		"6. Enjoy your delicious Steamed Chinese Cabbage Parcels!"
+	],
+	"image": "https://i.ndtvimg.com/i/2017-11/cabbage-parcel_620x330_81511943481.jpg"
+    },
+    {
+	"Name": "Stuffed Capsicum with Carrots and Cabbage",
+	"Description": "Stuffed capsicum filled with a mixture of carrots and cabbage, baked to perfection.",
+	"Ingredients": [
+		"4 large capsicums (bell peppers)",
+		"1 cup grated carrots",
+		"1 cup finely chopped cabbage",
+		"1 onion, finely chopped",
+		"2 cloves of garlic, minced",
+		"1 teaspoon grated ginger",
+		"1/2 teaspoon cumin seeds",
+		"1/2 teaspoon turmeric powder",
+		"1 teaspoon red chili powder (adjust according to taste)",
+		"1 teaspoon coriander powder",
+		"Salt to taste",
+		"2 tablespoons oil",
+		"Fresh cilantro leaves for garnishing"
+	],
+	"Instructions": [
+		"1. Preheat your oven to 375°F (190°C).",
+		"2. Slice off the tops of the capsicums and remove the seeds and membranes from the inside. Rinse the capsicums with water and set aside.",
+		"3. Heat oil in a pan over medium heat. Add cumin seeds and let them splutter.",
+		"4. Add chopped onions, minced garlic, and grated ginger to the pan. Sauté until the onions turn translucent.",
+		"5. Add grated carrots and chopped cabbage to the pan. Cook for 2-3 minutes until the vegetables soften.",
+		"6. Add turmeric powder, red chili powder, coriander powder, and salt to taste. Mix well and cook for another 2-3 minutes.",
+		"7. Stuff the prepared vegetable mixture into the hollowed capsicums. Place the stuffed capsicums in a baking dish.",
+		"8. Cover the baking dish with aluminum foil and bake in the preheated oven for 25-30 minutes or until the capsicums are tender.",
+		"9. Remove the foil and bake for an additional 5 minutes to lightly brown the tops.",
+		"10. Remove from the oven and garnish with fresh cilantro leaves.",
+		"11. Stuffed Capsicum with Carrots and Cabbage is now ready to be served."
+	],
+	"image": "https://foolproofliving.com/wp-content/uploads/2019/07/Mexican-Stuffed-Peppers-Recipe-Image.jpg"
+    },
+    {
+	"Name": "Carrot and Cashew Coleslaw",
+	"Description": "Carrot and Cashew Coleslaw is a refreshing and crunchy salad made with shredded carrots, roasted cashews, and a tangy dressing. It is a perfect side dish for any meal or can be enjoyed on its own.",
+	"Ingredients": [
+		"2 cups shredded carrots",
+		"1/2 cup roasted cashews, roughly chopped",
+		"1/4 cup mayonnaise",
+		"2 tablespoons Greek yogurt",
+		"1 tablespoon lemon juice",
+		"1 tablespoon honey",
+		"1/2 teaspoon Dijon mustard",
+		"Salt and pepper to taste",
+		"2 tablespoons chopped fresh parsley (optional, for garnish)"
+	],
+	"Instructions": [
+		"1. In a large bowl, combine the shredded carrots and chopped cashews.",
+		"2. In a separate small bowl, whisk together the mayonnaise, Greek yogurt, lemon juice, honey, Dijon mustard, salt, and pepper until well combined.",
+		"3. Pour the dressing over the carrot and cashew mixture. Toss well to coat all the ingredients evenly.",
+		"4. Taste and adjust the seasoning if needed.",
+		"5. Cover the bowl and refrigerate for at least 30 minutes to allow the flavors to meld together.",
+		"6. Before serving, give the coleslaw a good toss and garnish with chopped fresh parsley, if desired.",
+		"7. Serve chilled and enjoy!"
+	],
+	"iamge": "https://joyfuldumplings.com/wp-content/uploads/2021/09/the-best-asian-slaw-with-cashews5.jpg"
+    },
+    {
+        "Name": "Cabbage Stuffed Paratha",
+  "Description": "Cabbage Stuffed Paratha is a delicious Indian bread stuffed with a spiced cabbage filling.",
+  "Ingredients": [
+    "2 cups whole wheat flour",
+    "1 cup finely shredded cabbage",
+    "1/2 cup chopped onions",
+    "2 green chilies, finely chopped",
+    "1 teaspoon grated ginger",
+    "1/2 teaspoon cumin seeds",
+    "1/2 teaspoon turmeric powder",
+    "1/2 teaspoon red chili powder",
+    "1/2 teaspoon garam masala",
+    "Salt to taste",
+    "2 tablespoons oil",
+    "Water as needed",
+    "Ghee or butter for cooking parathas"
+  ],
+  "Instructions": [
+    "1. In a mixing bowl, combine the whole wheat flour with a pinch of salt. Gradually add water and knead to make a soft dough. Cover and let it rest for 15-20 minutes.",
+    "2. Meanwhile, in a separate bowl, mix the shredded cabbage, chopped onions, green chilies, grated ginger, cumin seeds, turmeric powder, red chili powder, garam masala, and salt. Mix well to combine the ingredients.",
+    "3. Divide the dough into equal-sized portions and roll each portion into a small circle.",
+    "4. Place a spoonful of the cabbage filling in the center of one dough circle. Bring the edges together and seal the filling by pinching the dough.",
+    "5. Gently flatten the stuffed dough ball and dust it with flour. Roll it out into a circular paratha, approximately 6-7 inches in diameter.",
+    "6. Heat a tawa or griddle over medium heat. Place the rolled paratha on the hot tawa and cook for a minute or until small bubbles appear on the surface.",
+    "7. Flip the paratha and spread some ghee or butter on top. Cook for another minute until golden brown spots appear on both sides.",
+    "8. Remove the cooked paratha from the tawa and repeat the process with the remaining dough and filling.",
+    "9. Serve the hot and delicious Cabbage Stuffed Parathas with yogurt, pickle, or any chutney of your choice."
+  ],
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Breads/Cabbage_Paneer_Stuffed_Paratha_Recipe-1.jpg"
+    },
+    {
+	"Name": "Thai Soyabean In Cabbage Cups",
+	"Description": "Thai Soyabean In Cabbage Cups is a flavorful and refreshing dish made with soybeans and vegetables, served in cabbage cups. It's a healthy and delicious appetizer or snack.",
+	"Ingredients": [
+		"1 cup soybeans",
+		"2 tablespoons vegetable oil",
+		"1 onion, finely chopped",
+		"2 garlic cloves, minced",
+		"1 red bell pepper, finely chopped",
+		"1 carrot, grated",
+		"1 cup cabbage, shredded",
+		"2 tablespoons soy sauce",
+		"1 tablespoon lime juice",
+		"1 tablespoon fresh cilantro, chopped",
+		"Salt and pepper to taste",
+		"8-10 cabbage leaves, separated for cups"
+	],
+	"Instructions": [
+		"1. Soak the soybeans in water overnight. Drain and rinse them before using.",
+		"2. Heat vegetable oil in a pan over medium heat. Add the chopped onion and minced garlic. Sauté until the onion becomes translucent.",
+		"3. Add the soaked soybeans to the pan and cook for 5-7 minutes until they become tender.",
+		"4. Stir in the chopped red bell pepper, grated carrot, and shredded cabbage. Sauté for another 2-3 minutes.",
+		"5. In a small bowl, whisk together soy sauce, lime juice, chopped cilantro, salt, and pepper.",
+		"6. Pour the sauce mixture over the cooked vegetables and soybeans. Stir well to combine and cook for an additional 2 minutes.",
+		"7. Remove from heat and let the mixture cool slightly.",
+		"8. Take cabbage leaves and trim the tough stem part. Place a spoonful of the soybean and vegetable mixture onto each cabbage leaf.",
+		"9. Roll up the cabbage leaf to form a cup, securing it with a toothpick if needed.",
+		"10. Repeat the process with the remaining cabbage leaves and filling.",
+		"11. Arrange the cabbage cups on a serving platter and garnish with additional chopped cilantro if desired.",
+		"12. Thai Soyabean In Cabbage Cups are now ready to be served. Enjoy as an appetizer or snack!"
+	],
+	"iamge": "https://img.taste.com.au/l_16fwqN/taste/2017/01/fyf_feb_17_cs_web_thaibeeflettucecups_h_1980x1320-119684-1.jpg"
+    },
+    {
+  "Name": "Kimchi",
+  "Description": "Kimchi is a traditional Korean side dish made of fermented vegetables, most commonly napa cabbage and radishes. It has a spicy, tangy flavor and is a staple in Korean cuisine.",
+  "Ingredients": [
+    "1 medium-sized napa cabbage",
+    "1 daikon radish",
+    "4-6 green onions",
+    "1/4 cup Korean red pepper flakes (gochugaru)",
+    "3 tablespoons fish sauce",
+    "1 tablespoon minced garlic",
+    "1 tablespoon grated ginger",
+    "1 tablespoon sugar",
+    "1 teaspoon salt"
+  ],
+  "Instructions": [
+    "1. Cut the napa cabbage into quarters and remove the core. Chop the cabbage into bite-sized pieces.",
+    "2. Peel the daikon radish and cut it into thin matchstick-sized strips.",
+    "3. Slice the green onions into 1-inch pieces, separating the white and green parts.",
+    "4. In a large bowl, combine the cabbage, radish, and green onions. Sprinkle salt over the vegetables and mix well. Let it sit for about 1 hour to allow the vegetables to release their water.",
+    "5. Rinse the vegetables with cold water to remove excess salt. Drain well and return them to the bowl.",
+    "6. In a separate bowl, combine the Korean red pepper flakes, fish sauce, minced garlic, grated ginger, and sugar. Mix well to form a paste.",
+    "7. Pour the paste over the vegetables and toss to coat them evenly.",
+    "8. Pack the kimchi tightly into a clean jar or airtight container, pressing down to remove any air bubbles. Leave some space at the top as the kimchi may expand during fermentation.",
+    "9. Close the jar or container and let it ferment at room temperature for 1 to 5 days, depending on your desired level of fermentation. Open the jar once a day to release any built-up gas and press down on the kimchi to keep it submerged in its own juices.",
+    "10. After the fermentation period, refrigerate the kimchi to slow down the fermentation process. It can be consumed immediately, but the flavors will continue to develop over time.",
+    "11. Enjoy the homemade kimchi as a side dish, in Korean dishes like kimchi fried rice, or as a topping for various dishes!"
+  ],
+    "iamge": "https://www.seriouseats.com/thmb/m16sray_HxYpJebVbXMxv906bhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210527-baechu-kimchi-vicky-wasik-seriouseats-seriouseats-3-18a2d6d7d1d74a7a82cb13ed350218be.jpg"
+    },
+    {
+	"Name": "Cabbage Poriyal",
+	"Description": "Cabbage Poriyal is a South Indian stir-fry dish made with cabbage and a few spices. It is a simple and flavorful side dish that pairs well with rice or roti.",
+	"Ingredients": [
+		"4 cups finely shredded cabbage",
+		"1 tablespoon oil",
+		"1 teaspoon mustard seeds",
+		"1 teaspoon urad dal",
+		"1 teaspoon chana dal",
+		"2 dried red chilies, broken into pieces",
+		"1/2 teaspoon turmeric powder",
+		"1/2 teaspoon cumin seeds",
+		"A pinch of asafoetida (hing)",
+		"Salt to taste",
+		"Freshly grated coconut (optional, for garnishing)",
+		"Fresh coriander leaves, chopped (for garnishing)"
+	],
+	"Instructions": [
+		"1. Heat oil in a pan or skillet over medium heat.",
+		"2. Add the mustard seeds and let them splutter. Then add the urad dal and chana dal. Sauté until they turn golden brown.",
+		"3. Add the dried red chilies, turmeric powder, cumin seeds, and asafoetida. Sauté for a few seconds.",
+		"4. Add the shredded cabbage and mix well. Cook for about 5-7 minutes, stirring occasionally, until the cabbage becomes tender but still retains some crunchiness.",
+		"5. Sprinkle salt over the cabbage and mix well. Adjust the salt according to your taste.",
+		"6. Cook for another 2-3 minutes, allowing the flavors to blend together.",
+		"7. Remove from heat and garnish with freshly grated coconut (if desired) and chopped coriander leaves.",
+		"8. Serve the Cabbage Poriyal as a side dish with rice or roti."
+	],
+	"image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/cabbage-poriyal-recipe.jpg"
+    },
+    {
+  "Name": "Tomato Soup",
+  "Description": "Tomato soup is a classic and comforting soup made with ripe tomatoes, aromatic herbs, and a touch of cream.",
+  "Ingredients": [
+    "4 large tomatoes, diced",
+    "1 onion, chopped",
+    "2 cloves of garlic, minced",
+    "2 tablespoons olive oil",
+    "1 carrot, peeled and diced",
+    "1 celery stalk, chopped",
+    "4 cups vegetable broth",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried oregano",
+    "Salt and pepper to taste",
+    "1/4 cup heavy cream (optional)",
+    "Fresh basil leaves for garnishing"
+  ],
+  "Instructions": [
+    "1. Heat olive oil in a large pot over medium heat.",
+    "2. Add the chopped onion, minced garlic, diced carrot, and chopped celery. Sauté for 5-7 minutes until the vegetables soften.",
+    "3. Add the diced tomatoes, dried basil, dried oregano, salt, and pepper. Stir well and cook for another 5 minutes.",
+    "4. Pour in the vegetable broth and bring the soup to a boil. Reduce the heat to low, cover the pot, and simmer for 15-20 minutes to allow the flavors to develop.",
+    "5. Use an immersion blender or transfer the soup to a blender to puree it until smooth.",
+    "6. Return the soup to the pot (if using a blender) and stir in the heavy cream, if desired, for a creamier texture. Heat the soup for another 2-3 minutes.",
+    "7. Taste and adjust the seasoning if needed.",
+    "8. Serve the tomato soup hot, garnished with fresh basil leaves."
+  ],
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg"
+    },
+    {
+  "Name": "Gazpacho",
+  "Description": "Gazpacho is a refreshing cold soup made with raw vegetables, typically served during the summer.",
+  "Ingredients": [
+    "4 ripe tomatoes",
+    "1 cucumber",
+    "1 red bell pepper",
+    "1 small red onion",
+    "2 cloves of garlic",
+    "2 tablespoons olive oil",
+    "2 tablespoons red wine vinegar",
+    "Salt to taste",
+    "Black pepper to taste",
+    "Optional garnish: chopped cucumber, bell pepper, and croutons"
+  ],
+  "Instructions": [
+    "1. Wash and roughly chop the tomatoes, cucumber, red bell pepper, and red onion.",
+    "2. Place the chopped vegetables in a blender or food processor along with the garlic cloves.",
+    "3. Blend until smooth. If desired, you can strain the mixture to remove any seeds or pulp.",
+    "4. Transfer the blended mixture to a large bowl.",
+    "5. Stir in olive oil and red wine vinegar. Season with salt and black pepper to taste.",
+    "6. Cover the bowl and refrigerate for at least 2 hours or until well chilled.",
+    "7. Once chilled, give the gazpacho a good stir and taste for any additional seasoning adjustments.",
+    "8. Serve the gazpacho cold, garnished with chopped cucumber, bell pepper, and croutons if desired."
+  ],
+    "image": "https://www.foodandwine.com/thmb/Y7V4VBOQ0Rgx0yRDQTCOOgmxsJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gazpacho-FT-RECIPE0822-2000-a215e6b67e244566b373b189acfd4e3e.jpg"
+    },
+    {
+  "Name": "Tomato Salsa",
+  "Description": "Tomato salsa is a vibrant and flavorful condiment made with fresh tomatoes and other ingredients. It is commonly used as a topping or dip.",
+  "Ingredients": [
+    "4 ripe tomatoes, diced",
+    "1/2 red onion, finely chopped",
+    "1 jalapeno pepper, seeded and minced",
+    "1/4 cup fresh cilantro, chopped",
+    "2 tablespoons lime juice",
+    "1 clove garlic, minced",
+    "Salt to taste",
+    "Optional: 1/2 teaspoon cumin powder for extra flavor"
+  ],
+  "Instructions": [
+    "1. In a medium bowl, combine the diced tomatoes, red onion, jalapeno pepper, cilantro, lime juice, and minced garlic.",
+    "2. Season with salt to taste and add cumin powder if desired. Stir well to mix all the ingredients.",
+    "3. Cover the bowl and refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "4. After refrigeration, give the salsa a taste and adjust the seasoning if needed.",
+    "5. Serve the tomato salsa as a topping for tacos, grilled meats, or as a dip with tortilla chips.",
+    "6. Enjoy the fresh and tangy tomato salsa!"
+  ],
+    "image": "https://producemadesimple.ca/wp-content/uploads/2013/08/BasicTomatoSalsa_v1.jpg"
+    },
+    {
+  "Name": "Egg Fried Rice",
+  "Description": "Egg fried rice is a popular Chinese dish made with cooked rice, scrambled eggs, and various vegetables. It is seasoned with soy sauce and cooked to perfection.",
+  "Ingredients": [
+    "Cooked rice",
+    "Eggs",
+    "Vegetable oil",
+    "Onion, finely chopped",
+    "Carrots, finely chopped",
+    "Peas",
+    "Green onions, chopped",
+    "Garlic, minced",
+    "Soy sauce",
+    "Salt and pepper to taste"
+  ],
+  "Instructions": [
+    "1. Heat a tablespoon of vegetable oil in a large pan or wok over medium heat.",
+    "2. Add the minced garlic and chopped onion to the pan. Sauté until the onion becomes translucent.",
+    "3. Push the garlic and onion to one side of the pan and crack the eggs into the empty space. Scramble the eggs until they are cooked through.",
+    "4. Add the chopped carrots and peas to the pan. Stir-fry for a few minutes until the vegetables are slightly tender.",
+    "5. Add the cooked rice to the pan. Break up any clumps of rice with a spatula and mix well with the vegetables and eggs.",
+    "6. Drizzle soy sauce over the rice and stir to coat all the ingredients. Adjust the amount of soy sauce according to your taste preferences.",
+    "7. Season the fried rice with salt and pepper. Stir-fry for a couple more minutes to heat everything through.",
+    "8. Remove the pan from heat and sprinkle chopped green onions over the fried rice.",
+    "9. Serve hot and enjoy!"
+  ],
+    "image": "https://media.vogue.in/wp-content/uploads/2020/11/Egg-fried-rice.jpg"
+    },
+    {
+  "Name": "Shanghai Fried Rice",
+  "Description": "Shanghai Fried Rice is a popular Chinese dish made with cooked rice, various vegetables, and typically includes some type of protein. It is seasoned with soy sauce and other seasonings for a flavorful and satisfying meal.",
+  "Ingredients": [
+    "3 cups cooked rice, cooled",
+    "1 cup diced chicken, shrimp, or tofu",
+    "1/2 cup diced carrots",
+    "1/2 cup peas",
+    "1/2 cup diced bell peppers",
+    "1/4 cup diced onion",
+    "2 cloves garlic, minced",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons soy sauce",
+    "1 tablespoon oyster sauce (optional)",
+    "1/2 teaspoon sesame oil",
+    "1/4 teaspoon white pepper",
+    "2 eggs, beaten",
+    "Salt to taste",
+    "Sliced green onions for garnishing"
+  ],
+  "Instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "2. Add the beaten eggs and scramble them until they are just cooked. Remove the scrambled eggs from the wok and set aside.",
+    "3. In the same wok, add the remaining 1 tablespoon of vegetable oil and heat it up.",
+    "4. Add the minced garlic and diced onion to the wok. Stir-fry for a minute until the onion becomes translucent.",
+    "5. Add the diced chicken, shrimp, or tofu to the wok and stir-fry until they are cooked through.",
+    "6. Add the diced carrots, peas, and bell peppers to the wok. Stir-fry for a few minutes until the vegetables are slightly tender.",
+    "7. Add the cooked rice to the wok and break up any clumps with a spatula. Stir-fry the rice with the vegetables and protein.",
+    "8. Drizzle the soy sauce, oyster sauce (if using), sesame oil, and white pepper over the rice. Mix well to ensure everything is evenly coated.",
+    "9. Add the scrambled eggs back into the wok and mix them into the fried rice.",
+    "10. Taste the fried rice and season with salt if needed.",
+    "11. Remove the Shanghai Fried Rice from heat and garnish with sliced green onions.",
+    "12. Serve hot and enjoy!"
+  ],
+    "image": "https://tandoorikitchen.in/wp-content/uploads/2022/03/mix-fried-rice-1-1-450x450.png"
+    },
+    {
+  "Name": "Xiaolongbao or Soup Dumplings",
+  "Description": "Xiaolongbao is a type of Chinese dumpling filled with savory broth and meat. It is a popular dish in Chinese cuisine and is often enjoyed as a dim sum delicacy.",
+  "Ingredients": [
+    "1 pound ground pork",
+    "1/2 cup minced shrimp",
+    "2 tablespoons soy sauce",
+    "1 tablespoon rice vinegar",
+    "1 tablespoon sesame oil",
+    "1 tablespoon grated ginger",
+    "2 cloves garlic, minced",
+    "1/4 cup chopped green onions",
+    "1/4 teaspoon white pepper",
+    "1/4 teaspoon salt",
+    "1 cup chicken broth",
+    "1 package dumpling wrappers"
+  ],
+  "Instructions": [
+    "1. In a large mixing bowl, combine the ground pork, minced shrimp, soy sauce, rice vinegar, sesame oil, grated ginger, minced garlic, chopped green onions, white pepper, and salt. Mix well until all the ingredients are thoroughly combined.",
+    "2. Take a dumpling wrapper and place a small spoonful of the filling mixture in the center. Fold the wrapper in half, creating a half-moon shape, and pleat the edges to seal the dumpling. Repeat this process until all the filling is used.",
+    "3. In a large pot, bring the chicken broth to a boil. Carefully place the dumplings into the pot, making sure they are not touching each other. Cover the pot and steam the dumplings for about 8-10 minutes, or until the filling is cooked through.",
+    "4. Serve the Xiaolongbao hot, garnished with additional chopped green onions if desired. Dip the dumplings in soy sauce or black vinegar before eating.",
+    "5. Enjoy the delicious Xiaolongbao and savor the burst of flavorful broth with each bite!"
+  ],
+    "image": "https://savourthesensesblog.com/wp-content/uploads/2022/03/Homemade-Chinese-Soup-Dumplings-Xiao-Long-Bao.jpg"
+    },
+    {
+  "Name": "Shanghai Vegan Noodles",
+  "Description": "Shanghai Vegan Noodles is a delicious and flavorful dish made with noodles, vegetables, and savory seasonings. It's a popular Chinese dish enjoyed by vegans and non-vegans alike.",
+  "Ingredients": [
+    "200 grams Shanghai noodles",
+    "1 tablespoon vegetable oil",
+    "1 onion, thinly sliced",
+    "2 cloves of garlic, minced",
+    "1 small carrot, julienned",
+    "1 red bell pepper, thinly sliced",
+    "1 cup sliced mushrooms",
+    "1 cup shredded cabbage",
+    "2 tablespoons soy sauce",
+    "1 tablespoon rice vinegar",
+    "1 tablespoon hoisin sauce",
+    "1 tablespoon sesame oil",
+    "Salt and pepper to taste",
+    "Chopped green onions for garnishing"
+  ],
+  "Instructions": [
+    "1. Cook the Shanghai noodles according to the package instructions. Drain and set aside.",
+    "2. Heat the vegetable oil in a large pan or wok over medium heat.",
+    "3. Add the sliced onion and minced garlic to the pan and sauté until the onion becomes translucent.",
+    "4. Add the julienned carrot, sliced red bell pepper, mushrooms, and shredded cabbage to the pan. Stir-fry for a few minutes until the vegetables are slightly tender.",
+    "5. In a small bowl, mix together soy sauce, rice vinegar, hoisin sauce, sesame oil, salt, and pepper.",
+    "6. Pour the sauce mixture into the pan with the vegetables. Stir well to coat the vegetables evenly.",
+    "7. Add the cooked Shanghai noodles to the pan and toss everything together until the noodles are well coated with the sauce.",
+    "8. Cook for an additional 2-3 minutes, stirring occasionally, to heat through.",
+    "9. Remove from heat and garnish with chopped green onions.",
+    "10. Serve the Shanghai Vegan Noodles hot and enjoy!"
+  ],
+    "image": "https://lh4.googleusercontent.com/2p2Dk61OQVCcgexmAJr5fvtHlmmitG1-tvkJWtRhRKX3VRuwwDLqcY5iVbh2mSKtT-vHixoGDgPDtB594yps8I7q5X32q9JxN0t7MYSXZbwPBO3ddpv2ZlwhwgrGaf9OAbFYyDbT",
+    },
+    {
+  "Name": "Pesto Pasta",
+  "Description": "Pesto pasta is a classic Italian dish made with pasta tossed in a flavorful sauce made from fresh basil leaves, garlic, pine nuts, Parmesan cheese, and olive oil.",
+  "Ingredients": [
+    "8 ounces (225g) pasta",
+    "2 cups fresh basil leaves",
+    "3 cloves garlic",
+    "1/4 cup pine nuts",
+    "1/2 cup grated Parmesan cheese",
+    "1/2 cup extra virgin olive oil",
+    "Salt and pepper to taste"
+  ],
+  "Instructions": [
+    "1. Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "2. In a food processor or blender, combine the fresh basil leaves, garlic, pine nuts, and grated Parmesan cheese. Pulse until finely chopped.",
+    "3. With the food processor or blender running, slowly drizzle in the olive oil until the mixture becomes a smooth sauce.",
+    "4. Season the pesto sauce with salt and pepper to taste.",
+    "5. In a large pan, heat a little olive oil over medium heat. Add the cooked pasta and toss with the pesto sauce until well coated.",
+    "6. Cook for an additional 2-3 minutes, stirring occasionally, until the pasta is heated through.",
+    "7. Remove from heat and serve the pesto pasta hot.",
+    "8. Garnish with extra Parmesan cheese and fresh basil leaves, if desired.",
+    "9. Enjoy your delicious homemade pesto pasta!"
+  ],
+    "image": "https://www.nourishandtempt.com/wp-content/uploads/2022/04/357B765F-F3DC-47E7-AEA2-58A1398F1419-scaled.jpg"
+    },
+    {
+  "Name": "Panzanella",
+  "Description": "Panzanella is a classic Italian bread salad made with tomatoes, stale bread, and fresh vegetables.",
+  "Ingredients": [
+    "4 cups stale bread, cut into cubes",
+    "4 ripe tomatoes, cut into chunks",
+    "1 cucumber, sliced",
+    "1 red onion, thinly sliced",
+    "1/2 cup Kalamata olives, pitted",
+    "1/4 cup fresh basil leaves, torn",
+    "1/4 cup fresh parsley leaves, chopped",
+    "1/4 cup extra virgin olive oil",
+    "2 tablespoons red wine vinegar",
+    "Salt and pepper to taste"
+  ],
+  "Instructions": [
+    "1. In a large bowl, combine the bread cubes, tomatoes, cucumber, red onion, Kalamata olives, basil leaves, and parsley.",
+    "2. In a small bowl, whisk together the extra virgin olive oil, red wine vinegar, salt, and pepper.",
+    "3. Pour the dressing over the bread and vegetable mixture. Toss well to combine, making sure the bread is coated with the dressing.",
+    "4. Let the Panzanella sit for at least 15 minutes to allow the flavors to meld together and for the bread to absorb the dressing.",
+    "5. Serve the Panzanella at room temperature and enjoy!"
+  ],
+    "image": "https://dishingouthealth.com/wp-content/uploads/2020/08/SummerPanzanella_Square.jpgV"
+    },
+    {
+  "Name": "Spaghetti alla Carbonara",
+  "Description": "Spaghetti alla Carbonara is a classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper. It's a rich and creamy dish that is simple to make yet incredibly delicious.",
+  "Ingredients": [
+    "8 ounces (225 grams) spaghetti",
+    "4 ounces (115 grams) pancetta or bacon, diced",
+    "2 cloves garlic, minced",
+    "2 large eggs",
+    "1 cup grated Pecorino Romano cheese",
+    "1/2 teaspoon freshly ground black pepper",
+    "Salt to taste",
+    "Chopped parsley for garnishing (optional)"
+  ],
+  "Instructions": [
+    "1. Bring a large pot of salted water to a boil. Cook the spaghetti according to the package instructions until al dente. Reserve 1/2 cup of the pasta cooking water before draining.",
+    "2. While the spaghetti is cooking, heat a large skillet over medium heat. Add the diced pancetta or bacon and cook until crispy and browned. Add the minced garlic and cook for an additional minute.",
+    "3. In a medium bowl, whisk together the eggs, grated Pecorino Romano cheese, black pepper, and a pinch of salt.",
+    "4. Once the spaghetti is cooked, drain it and return it to the pot. Immediately add the cooked pancetta or bacon and garlic to the pot, along with the egg and cheese mixture. Toss everything together quickly to coat the pasta evenly. The heat from the pasta will cook the eggs, creating a creamy sauce. If the mixture seems too dry, add a little of the reserved pasta cooking water to loosen it up.",
+    "5. Serve the Spaghetti alla Carbonara immediately, garnished with chopped parsley if desired. Enjoy!"
+  ],
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/6/12/2/FO1D41_23785_s4x3.jpg.rend.hgtvcom.616.462.suffix/1431766590243.jpeg"
+    },
+    {
+  "Name": "Pizza Margherita",
+  "Description": "Pizza Margherita is a classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. It is known for its simplicity and delicious flavors.",
+  "Ingredients": [
+    "Pizza dough",
+    "Fresh tomatoes",
+    "Fresh mozzarella cheese",
+    "Fresh basil leaves",
+    "Olive oil",
+    "Salt",
+    "Black pepper"
+  ],
+  "Instructions": [
+    "1. Preheat your oven to the highest temperature (usually around 500°F/260°C) and place a pizza stone or baking sheet in the oven while it heats up.",
+    "2. Roll out the pizza dough on a lightly floured surface into a round shape of your desired thickness. Transfer the rolled-out dough onto a piece of parchment paper.",
+    "3. Slice the fresh tomatoes and fresh mozzarella cheese into thin rounds.",
+    "4. Place the tomato slices on top of the pizza dough, ensuring even coverage. Sprinkle a pinch of salt and black pepper over the tomatoes.",
+    "5. Arrange the fresh mozzarella cheese slices on top of the tomatoes.",
+    "6. Tear or thinly slice the fresh basil leaves and distribute them over the pizza.",
+    "7. Drizzle a little olive oil over the pizza.",
+    "8. Carefully transfer the pizza (with the parchment paper) onto the preheated pizza stone or baking sheet in the oven.",
+    "9. Bake the pizza for about 10-12 minutes or until the crust is golden and the cheese has melted and started to brown.",
+    "10. Remove the pizza from the oven and let it cool for a minute. Slice and serve hot."
+  ],
+    "image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg"
+    },
+    {
+  "Name": "Pizza Marinara",
+  "Description": "Pizza Marinara is a classic Italian pizza topped with a flavorful tomato sauce, garlic, oregano, and olive oil. It is a simple yet delicious pizza option without any cheese.",
+  "Ingredients": [
+    "1 pizza dough",
+    "1 cup tomato sauce",
+    "4 cloves of garlic, minced",
+    "1 teaspoon dried oregano",
+    "2 tablespoons olive oil",
+    "Salt to taste",
+    "Fresh basil leaves for garnishing"
+  ],
+  "Instructions": [
+    "1. Preheat your oven to the highest temperature it can reach, usually around 500°F (260°C).",
+    "2. Roll out the pizza dough on a lightly floured surface to your desired thickness.",
+    "3. Transfer the rolled-out dough to a baking sheet or pizza stone.",
+    "4. Spread the tomato sauce evenly over the dough, leaving a small border around the edges.",
+    "5. Sprinkle the minced garlic and dried oregano over the sauce.",
+    "6. Drizzle the olive oil over the pizza.",
+    "7. Season with salt to taste.",
+    "8. Place the pizza in the preheated oven and bake for about 10-15 minutes, or until the crust is golden brown and crispy.",
+    "9. Remove the pizza from the oven and let it cool for a minute.",
+    "10. Garnish with fresh basil leaves.",
+    "11. Slice the Pizza Marinara and serve hot.",
+    "Enjoy your flavorful Pizza Marinara!"
+  ],
+    "image": "https://mysugarfreekitchen.com/wp-content/uploads/2018/01/Seafood-Marinara-Pizza-4.jpg",
+    },
+    {
+  "Name": "Pasta all'Ortolana",
+  "Description": "Pasta all'Ortolana is a delicious Italian dish made with mixed vegetables and pasta. It's a light and flavorful dish that celebrates the freshness of seasonal vegetables.",
+  "Ingredients": [
+    "300g pasta",
+    "1 eggplant, diced",
+    "1 zucchini, diced",
+    "1 red bell pepper, diced",
+    "1 yellow bell pepper, diced",
+    "1 onion, diced",
+    "2 cloves of garlic, minced",
+    "1 can (14 oz/400g) diced tomatoes",
+    "2 tablespoons tomato paste",
+    "1 teaspoon dried oregano",
+    "1/2 teaspoon dried basil",
+    "Salt and pepper to taste",
+    "Grated Parmesan cheese for serving",
+    "Fresh basil leaves for garnishing"
+  ],
+  "Instructions": [
+    "1. Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "2. In a large pan, heat some olive oil over medium heat. Add the diced eggplant and sauté for about 5 minutes until lightly browned and softened. Remove the eggplant from the pan and set aside.",
+    "3. In the same pan, add a little more olive oil if needed and sauté the diced zucchini, red bell pepper, yellow bell pepper, onion, and minced garlic. Cook for about 5-7 minutes until the vegetables are tender.",
+    "4. Add the diced tomatoes, tomato paste, dried oregano, and dried basil to the pan with the vegetables. Season with salt and pepper to taste. Stir well to combine.",
+    "5. Simmer the vegetable mixture for about 10 minutes over medium-low heat, allowing the flavors to blend together.",
+    "6. Add the cooked pasta and the sautéed eggplant to the pan with the vegetables. Toss everything together gently to coat the pasta and vegetables with the sauce.",
+    "7. Cook for another 2-3 minutes until everything is heated through.",
+    "8. Remove from heat and serve the Pasta all'Ortolana hot.",
+    "9. Garnish with grated Parmesan cheese and fresh basil leaves.",
+    "10. Enjoy your Pasta all'Ortolana!"
+  ],
+    "image": "https://static.planeat.eco/media/item_pics/tortiglioni-all-ortolana-600x400.jpg"
+    },
+    {
+  "Name": "Mac and Cheese Recipe",
+  "Description": "Mac and Cheese is a classic comfort food dish made with macaroni pasta and a creamy cheese sauce.",
+  "Ingredients": [
+    "8 ounces (225g) elbow macaroni",
+    "2 cups (480ml) milk",
+    "2 tablespoons (28g) butter",
+    "2 tablespoons (16g) all-purpose flour",
+    "2 cups (200g) shredded cheddar cheese",
+    "Salt and pepper to taste"
+  ],
+  "Instructions": [
+    "1. Cook the macaroni according to the package instructions until al dente. Drain and set aside.",
+    "2. In a saucepan, heat the milk over medium heat until hot but not boiling.",
+    "3. In a separate large saucepan, melt the butter over medium heat. Stir in the flour and cook for 1-2 minutes to make a roux.",
+    "4. Gradually whisk the hot milk into the roux, stirring constantly until the mixture thickens and becomes smooth.",
+    "5. Reduce the heat to low and add the shredded cheddar cheese to the sauce, stirring until melted and well combined. Season with salt and pepper to taste.",
+    "6. Add the cooked macaroni to the cheese sauce and stir until the pasta is evenly coated.",
+    "7. Cook over low heat for a few minutes, stirring occasionally, to allow the flavors to meld together.",
+    "8. Remove from heat and let it rest for a couple of minutes before serving.",
+    "9. Serve the mac and cheese hot as a delicious and comforting meal."
+  ],
+    "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/03/19/238691-Simple-Macaroni-And-Cheese-mfs_008.jpg"
+    },
+    {
+  "Name": "Cheese Garlic Bread",
+  "Description": "Cheese garlic bread is a delicious and flavorful appetizer made with bread, garlic, butter, and melted cheese.",
+  "Ingredients": [
+    "1 loaf of French bread",
+    "4 tablespoons butter, softened",
+    "4 cloves of garlic, minced",
+    "1 cup grated mozzarella cheese",
+    "1/4 cup grated Parmesan cheese",
+    "1 tablespoon fresh parsley, chopped"
+  ],
+  "Instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cut the French bread loaf in half lengthwise, creating two long pieces.",
+    "3. In a small bowl, mix together the softened butter and minced garlic to make a garlic butter spread.",
+    "4. Spread the garlic butter evenly over the cut sides of the bread.",
+    "5. Sprinkle the grated mozzarella cheese over the buttered bread.",
+    "6. Sprinkle the grated Parmesan cheese over the mozzarella.",
+    "7. Place the bread halves on a baking sheet and bake in the preheated oven for about 10-12 minutes, or until the cheese is melted and bubbly.",
+    "8. Remove the bread from the oven and sprinkle the chopped parsley over the top.",
+    "9. Allow the bread to cool slightly, then cut into slices and serve warm.",
+    "10. Enjoy your cheesy and garlicky goodness!"
+  ],
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/01/cheese-garlic-bread-recipes-51.jpg"
+    },
+    {
+  "Name": "Cream Cheese Sandwich",
+  "Description": "Cream Cheese Sandwich is a delightful and simple sandwich made with creamy cheese spread and various ingredients.",
+  "Ingredients": [
+    "2 slices of bread",
+    "4 tablespoons cream cheese",
+    "1 small cucumber, thinly sliced",
+    "4-6 lettuce leaves",
+    "Salt and pepper to taste",
+    "Optional: sliced tomatoes, onions, or any other desired toppings"
+  ],
+  "Instructions": [
+    "1. Take two slices of bread and spread cream cheese evenly on both slices.",
+    "2. Place lettuce leaves on one slice of bread.",
+    "3. Arrange the cucumber slices on top of the lettuce.",
+    "4. Sprinkle salt and pepper over the cucumber slices.",
+    "5. Add any additional toppings like sliced tomatoes or onions if desired.",
+    "6. Cover the sandwich with the other slice of bread, cream cheese side down.",
+    "7. Press gently to secure the filling.",
+    "8. Cut the sandwich diagonally into two triangles or into desired shapes.",
+    "9. Serve the Cream Cheese Sandwich as a delightful snack or pack it for a quick lunch!"
+  ],
+    "image": "https://alekasgettogether.com/wp-content/uploads/2021/07/cream-cheese-grilled-cheese-sandwich-2-1.jpg"
+    },
+    {
+  "Name": "Paneer Cheese Toast",
+  "Description": "Paneer Cheese Toast is a delicious and quick snack made with paneer (Indian cottage cheese), vegetables, and spices, topped with melted cheese. It's perfect for breakfast or as an evening snack.",
+  "Ingredients": [
+    "2 slices of bread",
+    "100 grams paneer, crumbled",
+    "1 small onion, finely chopped",
+    "1 small tomato, finely chopped",
+    "1/2 capsicum, finely chopped",
+    "2 green chilies, finely chopped",
+    "1/4 teaspoon turmeric powder",
+    "1/2 teaspoon red chili powder",
+    "1/2 teaspoon garam masala",
+    "Salt to taste",
+    "Butter or oil for toasting",
+    "Grated cheese for topping"
+  ],
+  "Instructions": [
+    "1. In a bowl, mix crumbled paneer, chopped onion, tomato, capsicum, and green chilies.",
+    "2. Add turmeric powder, red chili powder, garam masala, and salt. Mix well to combine all the ingredients.",
+    "3. Take a slice of bread and spread the paneer mixture evenly on top of it. Place another slice of bread on top to make a sandwich.",
+    "4. Heat a skillet or tawa on medium heat. Spread some butter or oil on the surface.",
+    "5. Place the prepared paneer cheese sandwich on the skillet and toast it on medium-low heat until the bread turns golden brown and crispy.",
+    "6. Flip the sandwich and toast the other side as well.",
+    "7. Once both sides are toasted and the cheese has melted, remove the sandwich from the skillet.",
+    "8. Cut the sandwich into halves or quarters and serve hot.",
+    "9. Paneer Cheese Toast is now ready to be enjoyed as a tasty snack!"
+  ],
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/paneer-cheese-toast.jpg"
     }
-]
+]++++
+    
+
+    
+    
