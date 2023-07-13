@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:yummy_app/components/drawer.dart';
 import 'package:yummy_app/components/food_card.dart';
 import 'package:yummy_app/models/recipe_model.dart';
+import 'package:yummy_app/screens/select_ing.dart';
 import 'package:yummy_app/services/recipe_service.dart';
 
 class Home extends StatelessWidget {
@@ -9,6 +11,7 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: const MyDrawer(),
       appBar: AppBar(
         title: const Text('Yummy'),
       ),
@@ -45,6 +48,15 @@ class Home extends StatelessWidget {
             }
           },
         ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.of(context)
+          .push(MaterialPageRoute(builder: (context) {
+            return const SelectIng();
+          },));
+        },
+        child: const Icon(Icons.checklist_sharp),
       ),
     );
   }

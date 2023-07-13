@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40507665346",
+    "project_id": "recipeapp-a1023",
+    "storage_bucket": "recipeapp-a1023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40507665346:android:f0d24a721d0c907d2ac45b",
+        "android_client_info": {
+          "package_name": "com.example.yummy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40507665346-e4n7dnd92pve580t7bp73lb192tj5kgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKdDY6u6tiqjaaIA9h5zaQw7olHGEWKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40507665346-e4n7dnd92pve580t7bp73lb192tj5kgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
